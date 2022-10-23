@@ -16,7 +16,7 @@ includelib /masm32/lib/msvcrt.lib
     a dd ?
     b dd ?
     va db "Enter a variable a: ", 0
-    vb db "Enter b variable b: ", 0
+    vb db "Enter a variable b: ", 0
     s1 db "chastnoe = %d ostatok = %d", 0
     tpi db "%d", 0
     tps db "%s", 0
