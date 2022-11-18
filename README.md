@@ -64,7 +64,7 @@ Using the comparison procedure, output the maximum value.
 
 ### **Program 5-1**
 ```
-Input and output an array of type dd   
+Input and output an array of type dd.   
 (DUP, $, EQU, LOOP, OFFSET, LENGTHOF, TYPE, SIZEOF, PTR)   
 ```   
 ### **Program 5-2**
@@ -75,3 +75,17 @@ Print the sum of the negative elements of the array.
 ```
 ???   
 ```   
+
+## **Program 6**
+
+### **Program 6-1**
+```
+Input and output of a matrix of type dd.   
+Output the max element. Output the index of the max element.   
+```   
+### **Program 6-2**
+```
+Input and output of a matrix of type dd.   
+Output the min element. Output the index of the min element.    
+```   
+ 
