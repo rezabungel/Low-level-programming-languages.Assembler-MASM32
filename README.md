@@ -73,8 +73,11 @@ Print the sum of the negative elements of the array.
 ```   
 ### **Program 5-3**
 ```
-???   
+Apply a logical shift (shl, shr, sal, sar, rol, ror) by 3 bits to the number:   
+a db 127   
+(SHL, SHR, SAL, SAR, ROL, ROR)   
 ```   
+[Information about these commands is in folder 5](./5)   
 
 ## **Program 6**
 
@@ -88,4 +91,3 @@ Output the max element. Output the index of the max element.
 Input and output of a matrix of type dd.   
 Output the min element. Output the index of the min element.    
 ```   
- 

@@ -77,7 +77,7 @@ includelib /masm32/lib/msvcrt.lib
 ; About EQU
 ;
 ; The EQU directive is used to assign a symbolic name to an integer expression or an arbitrary text string.
-: There are three formats of the EQU directive:  
+; There are three formats of the EQU directive:  
 ; name EQU expression
 ; name EQU symbol 
 ; name EQU <text>
