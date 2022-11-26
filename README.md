@@ -91,3 +91,26 @@ Output the max element. Output the index of the max element.
 Input and output of a matrix of type dd.   
 Output the min element. Output the index of the min element.    
 ```   
+
+## **Program 7**
+
+### **Program 7-1**
+```
+3a^2*b-3ab
+
+a real8 1.5   
+b real8 10.0   
+The answer should be 22.5
+
+(Coprocessor, real numbers)
+```   
+### **Program 7-2**
+```
+(3a+2b^2)/(2a+b)
+
+a real8 2.0   
+b real8 3.0   
+The answer should be 3.428
+
+(Coprocessor, real numbers)
+```  
