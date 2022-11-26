@@ -113,4 +113,20 @@ b real8 3.0
 The answer should be 3.428
 
 (Coprocessor, real numbers)
-```  
+```   
+
+## **exam**  
+Task 1   
+In Visual Studio, develop a console application with an assembler insert that implements any crypto algorithm with its decryption.   
+(Crypto algorithm: Caesar Cipher)   
+
+Task 2   
+Set a string containing english letters, digits, separators (there must be digits, letters, separators in one line).   
+Delete all the digits and output the resulting string to the console.   
+
+Task 3
+Working with a coprocessor, real numbers.   
+Implement the function:$\frac{sin(x)+1.5x}{0.3}$   
+
+Task 4   
+Set a one-dimensional array of natural numbers. Delete all odd numbers and output the remaining array of even numbers to the console and a text file.

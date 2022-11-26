@@ -48,15 +48,13 @@ include /masm32/include/masm32rt.inc
         fld temp                        ; st(0)=3a+2b^2
         fld temp1                       ; st(0)=2a+b st(1)=3a+2b^2
 
-
-        fdiv ;WHY is the answer correct; ; st(0)=st(0)/st(1)=(3a+2b^2)/(2a+b)
+        fdiv                            ; st(0)=(3a+2b^2)/(2a+b)
 
         fstp res                        ; res=st(0)=(3a+2b^2)/(2a+b)
 
         print "res=(3a+2b^2)/(2a+b)="
         print real8$(res),13,10
+        
         inkey
         exit
     end start
-
-

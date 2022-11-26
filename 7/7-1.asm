@@ -22,8 +22,7 @@ include /masm32/include/masm32rt.inc
 
 .code
     start:
-         finit                           ; Bringing the coprocessor to the initial state (clearing the stack)
-
+        finit                           ; Bringing the coprocessor to the initial state (clearing the stack)
 
         fld a                           ; Loading the value "a" to st(0) -> st(0)=a
         fld a                           ; Loading the value "a" to st(0) -> st(0)=a st(1)=a
