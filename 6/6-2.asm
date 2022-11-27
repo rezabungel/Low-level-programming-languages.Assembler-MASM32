@@ -134,7 +134,7 @@ includelib /masm32/lib/msvcrt.lib
                 mov eax, esi                                            ; eax - divisible
                 mov ecx, type_elemet_in_matrix                          ; ecx - divider
                 xor edx, edx                                            ; Zeroing out. Also, zeroing can be done this way: mov edx, 0
-                idiv ecx                                                ; Do -> eax/eac -> get -> eax - private, edx - remains
+                idiv ecx                                                ; Do -> eax/ecx -> get -> eax - private, edx - remains
                 mov minJ, eax
                 
            curr_not_min:                                                ; We here if the current element >= the estimated minimum

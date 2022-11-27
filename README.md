@@ -126,7 +126,8 @@ Delete all the digits and output the resulting string to the console.
 
 Task 3
 Working with a coprocessor, real numbers.   
-Implement the function:$\frac{sin(x)+1.5x}{0.3}$   
+Calculate the four value of the function in increments of 0.5. The choice of the initial value of x is arbitrary. The number of signs in the fractional part of the result should not exceed five signs.   
+Implement the function: $y(x)=\frac{sin(x)+1.5x}{0.3}$   
 
 Task 4   
 Set a one-dimensional array of natural numbers. Delete all odd numbers and output the remaining array of even numbers to the console and a text file.
