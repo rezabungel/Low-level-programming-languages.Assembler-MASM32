@@ -3,19 +3,26 @@
 ## **Program 1**
 
 ### **Program 1-1**
+```
 (3a-6b+300)/(b-2a)   
+```   
 
 ## **Program 2**
 
 ### **Program 2-1**
 ```
 Working with the stack.   
+
+(2*a*a*b+a*b)   
 ```   
-(2\*a\*a\*b+a\*b)   
 ### **Program 2-2**
+```
 (7a-3b-2)/(b-5)   
+```   
 ### **Program 2-3**
+```
 (a+b)/(a-b)   
+```   
 
 ## **Program 3**
 
@@ -29,8 +36,9 @@ Example 2. Comparing two numbers stored in memory and branch to different labels
 ### **Program 3-2**
 ```
 Solve through the procedure.   
-```   
+
 (a+b)/(a-b)   
+```   
 ### **Program 3-3**
 ```
 Enter 3 signed integers from the keyboard and output the maximum.   
